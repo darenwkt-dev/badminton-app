@@ -1,0 +1,2626 @@
+[
+  {
+    "activityDetailsId": "4a8c780e-d3bb-4349-ae1e-04addc6cb9b4",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078514678
+  },
+  {
+    "activityDetailsId": "ff7a6607-0a79-44ef-9740-15b3f5b578ec",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "becky",
+    "paid": true,
+    "createdAt": 1697078525718
+  },
+  {
+    "activityDetailsId": "ee6c2ec3-0612-4b86-ac6d-1b883ae91675",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "jia",
+    "paid": true,
+    "createdAt": 1697078526800
+  },
+  {
+    "activityDetailsId": "1ac1c690-6205-4117-a420-0976fa1e493f",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "wuihua",
+    "paid": true,
+    "createdAt": 1697078525898
+  },
+  {
+    "activityDetailsId": "2e1b3ee8-d87d-4268-af9a-32bfc5786fa8",
+    "activityId": "1691280000000",
+    "groupId": "testId",
+    "playerName": "leah",
+    "paid": true,
+    "createdAt": 1697078521192
+  },
+  {
+    "activityDetailsId": "ca0ad149-b7d7-4c35-a52e-4efa3d6f5e3d",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "danieltsui",
+    "paid": true,
+    "createdAt": 1697078530221
+  },
+  {
+    "activityDetailsId": "32e5eba4-12af-423d-894c-ffd1bf7e647c",
+    "activityId": "1690675200000",
+    "groupId": "testId",
+    "playerName": "nick",
+    "paid": true,
+    "createdAt": 1697078518115
+  },
+  {
+    "activityDetailsId": "c2f834e4-047f-419e-958b-701985f37bcc",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "jason",
+    "paid": true,
+    "createdAt": 1697078541613
+  },
+  {
+    "activityDetailsId": "0549cb54-73fa-4927-950e-eece117fca51",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "bernice",
+    "paid": true,
+    "createdAt": 1697078511421
+  },
+  {
+    "activityDetailsId": "3eb4f559-eaec-4d3b-8c22-bae9e0e1eaf5",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "sungsoo",
+    "paid": true,
+    "createdAt": 1697078525355
+  },
+  {
+    "activityDetailsId": "e6c83362-be94-4e21-bda6-4eb02e75c3cb",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "bryan",
+    "paid": true,
+    "createdAt": 1697078525174
+  },
+  {
+    "activityDetailsId": "fef8a568-6894-41ec-95f3-f01e23b03186",
+    "activityId": "1690675200000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078517574
+  },
+  {
+    "activityDetailsId": "5cd70951-8f08-417a-a60c-e12f27d5c783",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "sophie",
+    "paid": true,
+    "createdAt": 1697078543062
+  },
+  {
+    "activityDetailsId": "0268849c-61e4-4dc1-99e0-30329fc9bbc5",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078532207
+  },
+  {
+    "activityDetailsId": "31757b7f-fa6b-4e8f-99f4-a7267adaa057",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "marcus",
+    "paid": true,
+    "createdAt": 1697078534913
+  },
+  {
+    "activityDetailsId": "f02496d2-39ca-4f50-91ec-d9a8fa80b0ed",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "antonio",
+    "paid": true,
+    "createdAt": 1697078525537
+  },
+  {
+    "activityDetailsId": "f286c4b6-27aa-4836-8101-27688ae4b7ad",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "nictay",
+    "paid": true,
+    "createdAt": 1697078515947
+  },
+  {
+    "activityDetailsId": "1ffc75cf-de58-460b-81e2-e0a94b05fdda",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "nick",
+    "paid": true,
+    "createdAt": 1697078542161
+  },
+  {
+    "activityDetailsId": "b1158a46-fbbd-4b66-94cc-b97985d8b6cd",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "emily",
+    "paid": true,
+    "createdAt": 1697078536902
+  },
+  {
+    "activityDetailsId": "07e7b6dc-1bba-49da-9370-fcbcdbeb0173",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "marcus",
+    "paid": true,
+    "createdAt": 1697078532027
+  },
+  {
+    "activityDetailsId": "c427b6c2-5691-4470-9936-bc8a97aa3478",
+    "activityId": "1691280000000",
+    "groupId": "testId",
+    "playerName": "nick",
+    "paid": true,
+    "createdAt": 1697078520649
+  },
+  {
+    "activityDetailsId": "9d50927a-ef3c-469e-bdf2-fc9ceaa1c753",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "andreas",
+    "paid": true,
+    "createdAt": 1697078516487
+  },
+  {
+    "activityDetailsId": "5184f554-2b92-4704-902c-543816ecdcf9",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "adrian",
+    "paid": true,
+    "createdAt": 1697078510513
+  },
+  {
+    "activityDetailsId": "71308520-687c-43a5-8c4f-5851e139db26",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "tammy",
+    "paid": true,
+    "createdAt": 1697078529503
+  },
+  {
+    "activityDetailsId": "ea238be8-d4eb-4846-80cc-b273db88a5f0",
+    "activityId": "1688256000000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078509422
+  },
+  {
+    "activityDetailsId": "1a3dbfab-2fd9-4eef-b9db-57e9ede94a37",
+    "activityId": "1688256000000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078508697
+  },
+  {
+    "activityDetailsId": "c47485a0-f292-475f-8b3e-56d91a4dba28",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "bryan",
+    "paid": true,
+    "createdAt": 1697078536719
+  },
+  {
+    "activityDetailsId": "3ccc7e0b-fc01-480d-a19c-9d521bd838fc",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "aaronko",
+    "paid": true,
+    "createdAt": 1697078538893
+  },
+  {
+    "activityDetailsId": "a3e1c364-22fd-4c62-95dc-e900aa0f5805",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "xiaomeng",
+    "paid": true,
+    "createdAt": 1697078515405
+  },
+  {
+    "activityDetailsId": "017f2cea-047d-48cc-a7cc-827b0a944f73",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "danieltan",
+    "paid": true,
+    "createdAt": 1697078538171
+  },
+  {
+    "activityDetailsId": "2a17688f-0db9-4343-9687-db9f9608fa5d",
+    "activityId": "1688256000000",
+    "groupId": "testId",
+    "playerName": "adrian",
+    "paid": true,
+    "createdAt": 1697078509061
+  },
+  {
+    "activityDetailsId": "0e16c629-80a9-42f9-b27b-67657307999e",
+    "activityId": "1688256000000",
+    "groupId": "testId",
+    "playerName": "milly",
+    "paid": true,
+    "createdAt": 1697078509243
+  },
+  {
+    "activityDetailsId": "e519186d-1d4f-41d5-a8f9-99611d206368",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "hannah",
+    "paid": true,
+    "createdAt": 1697078541433
+  },
+  {
+    "activityDetailsId": "b3f3ac3a-9c27-4bd7-a388-7d6a5040d830",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "roy",
+    "paid": true,
+    "createdAt": 1697078529324
+  },
+  {
+    "activityDetailsId": "d2b9b8e0-5bc9-467e-9ff3-af09e4736b97",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078534187
+  },
+  {
+    "activityDetailsId": "c1a28242-8a27-4a3a-bfcc-fa0b0bd9ea19",
+    "activityId": "1689465600000",
+    "groupId": "testId",
+    "playerName": "joel",
+    "paid": true,
+    "createdAt": 1697078513948
+  },
+  {
+    "activityDetailsId": "4a0ca540-b30c-40ea-90cf-019573cd3588",
+    "activityId": "1689465600000",
+    "groupId": "testId",
+    "playerName": "adrian",
+    "paid": true,
+    "createdAt": 1697078512866
+  },
+  {
+    "activityDetailsId": "f5428248-5565-4960-acbc-88e3aacdd7a9",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "danieltan",
+    "paid": true,
+    "createdAt": 1697078533650
+  },
+  {
+    "activityDetailsId": "5fe0fd7c-2df8-439c-8a0c-a337cc17186b",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "claire",
+    "paid": true,
+    "createdAt": 1697078511782
+  },
+  {
+    "activityDetailsId": "7419aed7-0a65-4851-be4e-3e253c7e14ef",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "aaronko",
+    "paid": true,
+    "createdAt": 1697078542342
+  },
+  {
+    "activityDetailsId": "de7a5191-272a-4303-804b-b1278c95d3b0",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "joyce",
+    "paid": true,
+    "createdAt": 1697078538533
+  },
+  {
+    "activityDetailsId": "27090257-1771-4ab5-8f28-bfd963c405d9",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "minne",
+    "paid": true,
+    "createdAt": 1697078512144
+  },
+  {
+    "activityDetailsId": "2d703d17-6d5c-4467-939f-a7f7d0039f7e",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "jia",
+    "paid": true,
+    "createdAt": 1697078515223
+  },
+  {
+    "activityDetailsId": "a8cc5699-3a9c-4d58-9028-ab0bec867a9c",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078523190
+  },
+  {
+    "activityDetailsId": "b359e67f-e651-4558-9a4c-80459bea910c",
+    "activityId": "1691884800000",
+    "groupId": "testId",
+    "playerName": "antonio",
+    "paid": true,
+    "createdAt": 1697078522829
+  },
+  {
+    "activityDetailsId": "811fe5a2-7fb6-4153-bea4-367882321dfd",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "sophie",
+    "paid": true,
+    "createdAt": 1697078537627
+  },
+  {
+    "activityDetailsId": "80714096-0c8e-4d19-b504-43346fbf9595",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "joel",
+    "paid": true,
+    "createdAt": 1697078530041
+  },
+  {
+    "activityDetailsId": "6f58dfc0-e143-4185-81b5-53dd02590f08",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "jason",
+    "paid": true,
+    "createdAt": 1697078537444
+  },
+  {
+    "activityDetailsId": "eebe8596-4bf3-40c4-9898-beb7df4649e9",
+    "activityId": "1689465600000",
+    "groupId": "testId",
+    "playerName": "claire",
+    "paid": true,
+    "createdAt": 1697078514309
+  },
+  {
+    "activityDetailsId": "c442a344-45d0-4e3b-9f0e-4d129077061c",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "nick",
+    "paid": true,
+    "createdAt": 1697078538352
+  },
+  {
+    "activityDetailsId": "6af12443-9dc0-4631-90f5-d3476af811a3",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "alvarez",
+    "paid": true,
+    "createdAt": 1697078539979
+  },
+  {
+    "activityDetailsId": "1c8907ea-d881-4936-95de-b2f341075d54",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078542701
+  },
+  {
+    "activityDetailsId": "a18f8fe6-1440-4ec9-821f-99d2b317f41e",
+    "activityId": "1689465600000",
+    "groupId": "testId",
+    "playerName": "sunny",
+    "paid": true,
+    "createdAt": 1697078513407
+  },
+  {
+    "activityDetailsId": "7cd32685-a65f-4079-8d3a-7e845077260e",
+    "activityId": "1691280000000",
+    "groupId": "testId",
+    "playerName": "jason",
+    "paid": true,
+    "createdAt": 1697078519743
+  },
+  {
+    "activityDetailsId": "2304f531-b1b0-4d71-9584-ffcb0c193fc4",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "sunny",
+    "paid": true,
+    "createdAt": 1697078524633
+  },
+  {
+    "activityDetailsId": "68c71ad6-4c8c-461a-b716-a15454634943",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078527339
+  },
+  {
+    "activityDetailsId": "b3b47e1a-3e55-47ae-878b-0afec9dfb1cc",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "marcus",
+    "paid": true,
+    "createdAt": 1697078541977
+  },
+  {
+    "activityDetailsId": "d88084fd-7efc-4cec-b438-f454886ece5d",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "tammy",
+    "paid": true,
+    "createdAt": 1697078541794
+  },
+  {
+    "activityDetailsId": "1a298071-f955-4a69-b4f1-984267408d57",
+    "activityId": "1691884800000",
+    "groupId": "testId",
+    "playerName": "sungsoo",
+    "paid": true,
+    "createdAt": 1697078522646
+  },
+  {
+    "activityDetailsId": "647b76bb-c27c-421b-8d93-b22e8d59e248",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "marcus",
+    "paid": true,
+    "createdAt": 1697078528063
+  },
+  {
+    "activityDetailsId": "d9ff24c7-f141-4e12-bd85-2767b60755f4",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078540890
+  },
+  {
+    "activityDetailsId": "f8399d43-afe7-498a-ade1-5f9c2beebaab",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "tammy",
+    "paid": true,
+    "createdAt": 1697078539073
+  },
+  {
+    "activityDetailsId": "8354171c-8a91-4fbc-a6be-c3720edab9a9",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "rachel",
+    "paid": true,
+    "createdAt": 1697078534733
+  },
+  {
+    "activityDetailsId": "79f26e98-be9f-47fb-892f-32a916f47e4f",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "minne",
+    "paid": true,
+    "createdAt": 1697078524452
+  },
+  {
+    "activityDetailsId": "306b5917-764d-4a5f-8016-6609c72ca299",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "nictay",
+    "paid": true,
+    "createdAt": 1697078523548
+  },
+  {
+    "activityDetailsId": "3a478b29-8b7d-428e-af67-6f808dbe9c09",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "nictay",
+    "paid": true,
+    "createdAt": 1697078535274
+  },
+  {
+    "activityDetailsId": "e3ba9136-b593-424c-aa12-7772a5a65438",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "jia",
+    "paid": true,
+    "createdAt": 1697078534554
+  },
+  {
+    "activityDetailsId": "f002d78d-f4be-4801-bedc-666bbfa846a6",
+    "activityId": "1691884800000",
+    "groupId": "testId",
+    "playerName": "xiaomeng",
+    "paid": true,
+    "createdAt": 1697078522466
+  },
+  {
+    "activityDetailsId": "62b298c0-3ba9-42a4-ad65-1af9b96b3519",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "wuihua",
+    "paid": true,
+    "createdAt": 1697078527884
+  },
+  {
+    "activityDetailsId": "a682360e-3335-4db3-a35f-7c2504c7dcfb",
+    "activityId": "1690675200000",
+    "groupId": "testId",
+    "playerName": "bernice",
+    "paid": true,
+    "createdAt": 1697078517935
+  },
+  {
+    "activityDetailsId": "0821c405-c929-43c3-b7c3-64249af33e81",
+    "activityId": "1691884800000",
+    "groupId": "testId",
+    "playerName": "joel",
+    "paid": true,
+    "createdAt": 1697078521914
+  },
+  {
+    "activityDetailsId": "ff2c734a-a293-4880-acc6-c4af8bd05f3b",
+    "activityId": "1691884800000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078521553
+  },
+  {
+    "activityDetailsId": "e842e5ca-af4d-41b9-a4f8-eb3d2f9c48e4",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "adrian",
+    "paid": true,
+    "createdAt": 1697078515586
+  },
+  {
+    "activityDetailsId": "69bd4da8-937e-4348-aaa4-7d3b21268cb1",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "joel",
+    "paid": true,
+    "createdAt": 1697078523730
+  },
+  {
+    "activityDetailsId": "a1edecc3-cde3-4860-a534-c2925ab38ee8",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "tammy",
+    "paid": true,
+    "createdAt": 1697078528242
+  },
+  {
+    "activityDetailsId": "0752f4b6-9c70-43e5-8c55-e1a91a184b6f",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078531666
+  },
+  {
+    "activityDetailsId": "965fd030-b23a-4430-8ce0-ab35eb97167a",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078517039
+  },
+  {
+    "activityDetailsId": "d37148d2-d386-4045-8cad-37eb0373db00",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "nictay",
+    "paid": true,
+    "createdAt": 1697078510331
+  },
+  {
+    "activityDetailsId": "12cbf01d-dc0d-4cd4-b9a6-c985b043b86a",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078511058
+  },
+  {
+    "activityDetailsId": "af97c1e6-1622-49bc-871d-2c8bfe29f04c",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "rachel",
+    "paid": true,
+    "createdAt": 1697078531308
+  },
+  {
+    "activityDetailsId": "5f5b886c-67ee-41c8-a0e9-50354591954b",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "jia",
+    "paid": true,
+    "createdAt": 1697078530401
+  },
+  {
+    "activityDetailsId": "c512dcfb-d4aa-4455-848c-41518dc1aa9f",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "janice",
+    "paid": true,
+    "createdAt": 1697078528603
+  },
+  {
+    "activityDetailsId": "9f50b10c-6b77-40e2-8d76-ea970e81075e",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078524994
+  },
+  {
+    "activityDetailsId": "b4ef7832-ec71-46f4-b86e-84eda6cacb80",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "milly",
+    "paid": true,
+    "createdAt": 1697078515766
+  },
+  {
+    "activityDetailsId": "4521016c-f78b-4904-9d8a-88b58b697b5d",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078524813
+  },
+  {
+    "activityDetailsId": "63e483f9-7c59-4449-beac-76d4afa2cfe9",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "alvarez",
+    "paid": true,
+    "createdAt": 1697078535815
+  },
+  {
+    "activityDetailsId": "34cdcb79-0b70-4440-8378-32538ea8ea05",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "bernice",
+    "paid": true,
+    "createdAt": 1697078523910
+  },
+  {
+    "activityDetailsId": "f8ac69d5-8b02-48eb-9fd9-3af22fe52baa",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "antonio",
+    "paid": true,
+    "createdAt": 1697078536175
+  },
+  {
+    "activityDetailsId": "b77cbe2c-e6c5-4105-b831-0ba66cc63bbe",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "lena",
+    "paid": true,
+    "createdAt": 1697078539614
+  },
+  {
+    "activityDetailsId": "ae665ac3-cbd9-4c26-80e7-794104f998ee",
+    "activityId": "1691280000000",
+    "groupId": "testId",
+    "playerName": "jia",
+    "paid": true,
+    "createdAt": 1697078520287
+  },
+  {
+    "activityDetailsId": "cc1c1541-635c-42f6-98d3-7d671cb96669",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078537807
+  },
+  {
+    "activityDetailsId": "45e9a6a6-09f0-4879-a5b5-4175068d5ffa",
+    "activityId": "1690675200000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078519198
+  },
+  {
+    "activityDetailsId": "8e3f5cb7-7cf4-431f-b171-7a856406a185",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "rachel",
+    "paid": true,
+    "createdAt": 1697078516675
+  },
+  {
+    "activityDetailsId": "5b52388a-2df3-4615-b89c-455cc6efa41c",
+    "activityId": "1691280000000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078521011
+  },
+  {
+    "activityDetailsId": "5885d6ce-07ef-4564-87cb-20e0531d0625",
+    "activityId": "1691280000000",
+    "groupId": "testId",
+    "playerName": "bryan",
+    "paid": true,
+    "createdAt": 1697078519923
+  },
+  {
+    "activityDetailsId": "280a9ace-2fae-4288-8928-94eacc652ec9",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "danieltsui",
+    "paid": true,
+    "createdAt": 1697078533472
+  },
+  {
+    "activityDetailsId": "e1bea877-146e-466b-a059-6ae146a8c2c0",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "joel",
+    "paid": true,
+    "createdAt": 1697078516128
+  },
+  {
+    "activityDetailsId": "9c6ffa5c-a895-403d-9055-087ca9575ac5",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "gracia",
+    "paid": true,
+    "createdAt": 1697078533112
+  },
+  {
+    "activityDetailsId": "160fbde7-bbc3-447d-8a4c-5417acfec278",
+    "activityId": "1690675200000",
+    "groupId": "testId",
+    "playerName": "joel",
+    "paid": true,
+    "createdAt": 1697078518838
+  },
+  {
+    "activityDetailsId": "ba57e14e-6d1d-47b3-93b5-cdaace92368b",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078532386
+  },
+  {
+    "activityDetailsId": "d0122e8a-d8fb-4846-88d4-a0b8a0c12899",
+    "activityId": "1691280000000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078519561
+  },
+  {
+    "activityDetailsId": "374fa9f4-c90d-445b-b762-e517825301b7",
+    "activityId": "1689465600000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078512685
+  },
+  {
+    "activityDetailsId": "fd2c9f44-cec2-4262-92fa-3cbe02db047f",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "simeon",
+    "paid": true,
+    "createdAt": 1697078535453
+  },
+  {
+    "activityDetailsId": "61337ad1-75d8-48d6-9fc3-15d741749783",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "panda",
+    "paid": true,
+    "createdAt": 1697078528421
+  },
+  {
+    "activityDetailsId": "74cf5e58-424a-4647-a484-36d75a3f8408",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "joel",
+    "paid": true,
+    "createdAt": 1697078526980
+  },
+  {
+    "activityDetailsId": "3728c024-ce74-45aa-8bf3-94f8e1d2ce42",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "danieltan",
+    "paid": true,
+    "createdAt": 1697078530581
+  },
+  {
+    "activityDetailsId": "b408843f-21b2-45e5-9c27-60c9f43e7214",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "nick",
+    "paid": true,
+    "createdAt": 1697078516856
+  },
+  {
+    "activityDetailsId": "688f0f65-d55c-42cd-90f8-c508aba5df68",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "andreas",
+    "paid": true,
+    "createdAt": 1697078511602
+  },
+  {
+    "activityDetailsId": "ade92438-a5b2-498c-983f-c770ad156ddd",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "sunny",
+    "paid": true,
+    "createdAt": 1697078516309
+  },
+  {
+    "activityDetailsId": "1fa78944-2597-41d8-a22f-68daa7737a58",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078511238
+  },
+  {
+    "activityDetailsId": "bbb22a86-fc5c-4fc9-8a78-1b5e68b8809e",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078540710
+  },
+  {
+    "activityDetailsId": "abbf54e6-c131-4ca0-8dd1-78db8b2a5d50",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "marcus",
+    "paid": true,
+    "createdAt": 1697078529862
+  },
+  {
+    "activityDetailsId": "35d38a1e-54c6-4b9c-96de-39dcdb458138",
+    "activityId": "1690675200000",
+    "groupId": "testId",
+    "playerName": "rachel",
+    "paid": true,
+    "createdAt": 1697078518659
+  },
+  {
+    "activityDetailsId": "a3aca129-8b62-4fa7-9090-e990fd8e7cad",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "marcus",
+    "paid": true,
+    "createdAt": 1697078539254
+  },
+  {
+    "activityDetailsId": "1a8af155-b96f-4a30-8559-9ad1f63b3e4e",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "yenyii",
+    "paid": true,
+    "createdAt": 1697078539799
+  },
+  {
+    "activityDetailsId": "55a8df73-f566-4e72-afdd-0cbe17c70178",
+    "activityId": "1690675200000",
+    "groupId": "testId",
+    "playerName": "jason",
+    "paid": true,
+    "createdAt": 1697078517755
+  },
+  {
+    "activityDetailsId": "8003cbb5-8ce9-4f61-b647-b5e4994a5f64",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "tammy",
+    "paid": true,
+    "createdAt": 1697078535094
+  },
+  {
+    "activityDetailsId": "1a8f8299-e221-4660-a7ad-aa098235ea76",
+    "activityId": "1690675200000",
+    "groupId": "testId",
+    "playerName": "xiaomeng",
+    "paid": true,
+    "createdAt": 1697078518478
+  },
+  {
+    "activityDetailsId": "8a779b45-2c0a-46ea-8e92-784fdf3a600a",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "paul",
+    "paid": true,
+    "createdAt": 1697078533828
+  },
+  {
+    "activityDetailsId": "9e13a3ae-42e7-4e03-af33-7d83614db1a4",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "minne",
+    "paid": true,
+    "createdAt": 1697078538713
+  },
+  {
+    "activityDetailsId": "c1dc1294-878a-40a0-a7f4-5bbcb8f8eb75",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078526440
+  },
+  {
+    "activityDetailsId": "82d8ff18-9a8f-45da-b280-392c227ce7d3",
+    "activityId": "1691280000000",
+    "groupId": "testId",
+    "playerName": "xiaomeng",
+    "paid": true,
+    "createdAt": 1697078520469
+  },
+  {
+    "activityDetailsId": "990bace0-0a13-42b0-bce7-6f6fe801fed2",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "alvarez",
+    "paid": true,
+    "createdAt": 1697078542882
+  },
+  {
+    "activityDetailsId": "67665024-cb3b-499c-956e-31a30a9782da",
+    "activityId": "1691884800000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078522285
+  },
+  {
+    "activityDetailsId": "e2d3b5ec-69fc-435c-86ce-2a31ad5781ea",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078510148
+  },
+  {
+    "activityDetailsId": "afd117db-c56f-4158-8444-c2ab03d768b4",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "annie",
+    "paid": true,
+    "createdAt": 1697078540159
+  },
+  {
+    "activityDetailsId": "39f7c742-cb04-4ed3-8e3d-4c3a3deb4408",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "bryan",
+    "paid": true,
+    "createdAt": 1697078532746
+  },
+  {
+    "activityDetailsId": "dc245b52-a238-4f67-8a46-c2696cff5944",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "bernice",
+    "paid": true,
+    "createdAt": 1697078527702
+  },
+  {
+    "activityDetailsId": "0173f118-3ae9-4beb-8be6-506295172a62",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "joel",
+    "paid": true,
+    "createdAt": 1697078532566
+  },
+  {
+    "activityDetailsId": "e017927e-89b2-4d5a-85de-7c49fa0b4827",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078531120
+  },
+  {
+    "activityDetailsId": "47730203-9f03-4d21-8913-8e486dd2c97a",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "nick",
+    "paid": true,
+    "createdAt": 1697078511964
+  },
+  {
+    "activityDetailsId": "a31890cc-5faf-4fef-bdcb-ec18f437cb2a",
+    "activityId": "1688256000000",
+    "groupId": "testId",
+    "playerName": "sunny",
+    "paid": true,
+    "createdAt": 1697078509787
+  },
+  {
+    "activityDetailsId": "90b448f6-58fe-4392-9d21-8c12e78e6552",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078517216
+  },
+  {
+    "activityDetailsId": "5aaff100-3b09-4524-bb52-865aa79f7f7a",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "janice",
+    "paid": true,
+    "createdAt": 1697078524271
+  },
+  {
+    "activityDetailsId": "9b75b6b8-bf6c-49cd-b93f-6b795ea97d53",
+    "activityId": "1689465600000",
+    "groupId": "testId",
+    "playerName": "andreas",
+    "paid": true,
+    "createdAt": 1697078513588
+  },
+  {
+    "activityDetailsId": "301aaa33-8a28-459e-b529-c27ec1e3e62f",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "simeon",
+    "paid": true,
+    "createdAt": 1697078542520
+  },
+  {
+    "activityDetailsId": "11a32592-7347-43f9-a173-7cb61f394c22",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "adrian",
+    "paid": true,
+    "createdAt": 1697078541252
+  },
+  {
+    "activityDetailsId": "02a4d589-5efc-4635-9ed2-28355aece8bc",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078536537
+  },
+  {
+    "activityDetailsId": "36c64fe6-852f-434c-8e03-563ecc434d4f",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "milly",
+    "paid": true,
+    "createdAt": 1697078510694
+  },
+  {
+    "activityDetailsId": "81e479b3-413e-4673-a99f-6d457a488aa4",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "minne",
+    "paid": true,
+    "createdAt": 1697078527520
+  },
+  {
+    "activityDetailsId": "44391b58-9560-4cc8-ac66-66a2ac4e1b72",
+    "activityId": "1689465600000",
+    "groupId": "testId",
+    "playerName": "nick",
+    "paid": true,
+    "createdAt": 1697078514130
+  },
+  {
+    "activityDetailsId": "c936dc7b-005f-4610-ac30-5bfd80a3f8ec",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "danieltan",
+    "paid": true,
+    "createdAt": 1697078526620
+  },
+  {
+    "activityDetailsId": "b3c55ba9-f8ce-47d6-ac69-fc7e069007e4",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "jason",
+    "paid": true,
+    "createdAt": 1697078514858
+  },
+  {
+    "activityDetailsId": "b6ee59b9-6ba5-4761-8c07-9ba3574d43c0",
+    "activityId": "1690675200000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078519019
+  },
+  {
+    "activityDetailsId": "2458e353-418c-4e1a-89c4-0f998b705587",
+    "activityId": "1689465600000",
+    "groupId": "testId",
+    "playerName": "jason",
+    "paid": true,
+    "createdAt": 1697078513228
+  },
+  {
+    "activityDetailsId": "0cc59919-6776-4113-803e-b4b64b5cef7e",
+    "activityId": "1693094400000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078527160
+  },
+  {
+    "activityDetailsId": "9ff984c4-86e4-4697-a402-7e43d5a5cb1b",
+    "activityId": "1691884800000",
+    "groupId": "testId",
+    "playerName": "jia",
+    "paid": true,
+    "createdAt": 1697078521733
+  },
+  {
+    "activityDetailsId": "f93e4d47-1107-4146-a30b-e1bd3c20991a",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "bryan",
+    "paid": true,
+    "createdAt": 1697078530760
+  },
+  {
+    "activityDetailsId": "dddd78ab-9ed5-48b8-b6dd-a2512fc0b414",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "janice",
+    "paid": true,
+    "createdAt": 1697078533292
+  },
+  {
+    "activityDetailsId": "e4f987f3-391a-4e0c-8030-97618907678c",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "daniel",
+    "paid": true,
+    "createdAt": 1697078524091
+  },
+  {
+    "activityDetailsId": "98887bd1-3b9e-40e8-8cce-00d520b3d65c",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "simeon",
+    "paid": true,
+    "createdAt": 1697078529682
+  },
+  {
+    "activityDetailsId": "8e9db5cd-d4be-47da-ae73-300490e22b8c",
+    "activityId": "1691884800000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078522104
+  },
+  {
+    "activityDetailsId": "5483a2f4-cec0-4016-aaa0-272c8efc01d1",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "sapphire",
+    "paid": true,
+    "createdAt": 1697078529143
+  },
+  {
+    "activityDetailsId": "e4c2f063-5e8e-4562-8333-fe10ef70dd2b",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "roy",
+    "paid": true,
+    "createdAt": 1697078537988
+  },
+  {
+    "activityDetailsId": "e0236bd9-9473-4a4b-ae49-f7b57343dc0d",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "danieltsui",
+    "paid": true,
+    "createdAt": 1697078535996
+  },
+  {
+    "activityDetailsId": "8d867b39-ab90-421b-b15a-c7dad1f75fe9",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "roman",
+    "paid": true,
+    "createdAt": 1697078535635
+  },
+  {
+    "activityDetailsId": "09365973-0b6c-4ee4-823d-efebcc6e9dd5",
+    "activityId": "1691280000000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078520829
+  },
+  {
+    "activityDetailsId": "dd6d233c-547b-420a-9f52-328aa15c09f4",
+    "activityId": "1688256000000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078509607
+  },
+  {
+    "activityDetailsId": "90de9784-fdd0-4fab-a74c-0432d7604d9a",
+    "activityId": "1691280000000",
+    "groupId": "testId",
+    "playerName": "sunny",
+    "paid": true,
+    "createdAt": 1697078520106
+  },
+  {
+    "activityDetailsId": "470cc4b1-47b1-468e-ad23-df8e0956f10a",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "adrian",
+    "paid": true,
+    "createdAt": 1697078523368
+  },
+  {
+    "activityDetailsId": "8451f4b7-93af-4dc4-b92a-88231f6cc901",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "jason",
+    "paid": true,
+    "createdAt": 1697078510877
+  },
+  {
+    "activityDetailsId": "0cb8fdd9-24b7-4422-b70f-5e578cd23af7",
+    "activityId": "1689465600000",
+    "groupId": "testId",
+    "playerName": "rachel",
+    "paid": true,
+    "createdAt": 1697078513769
+  },
+  {
+    "activityDetailsId": "32b5aff4-b51a-4caf-a9ea-5115cf2cac3a",
+    "activityId": "1690070400000",
+    "groupId": "testId",
+    "playerName": "jesslyn",
+    "paid": true,
+    "createdAt": 1697078515044
+  },
+  {
+    "activityDetailsId": "3b38763d-4eff-4686-8e62-46e608e9b63b",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078537263
+  },
+  {
+    "activityDetailsId": "8b1f6d81-16c5-4b2c-a3f7-4ba1fb49e7bd",
+    "activityId": "1688860800000",
+    "groupId": "testId",
+    "playerName": "rachel",
+    "paid": true,
+    "createdAt": 1697078512325
+  },
+  {
+    "activityDetailsId": "9a2b7736-ca52-43e2-acc9-45d7295e9837",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "stephanie",
+    "paid": true,
+    "createdAt": 1697078539434
+  },
+  {
+    "activityDetailsId": "8744c1c8-bce2-4eb2-b7e1-d0a87d56795a",
+    "activityId": "1689465600000",
+    "groupId": "testId",
+    "playerName": "jia",
+    "paid": true,
+    "createdAt": 1697078513048
+  },
+  {
+    "activityDetailsId": "35896699-4cf6-48bf-8ccd-53143ff46f81",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078530941
+  },
+  {
+    "activityDetailsId": "997c6b30-5ee1-4c4d-bf2e-e5cfce8d8a69",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "minne",
+    "paid": true,
+    "createdAt": 1697078532925
+  },
+  {
+    "activityDetailsId": "66a6fb94-be4a-44ce-b73c-f616c1da879f",
+    "activityId": "1690675200000",
+    "groupId": "testId",
+    "playerName": "hannah",
+    "paid": true,
+    "createdAt": 1697078518296
+  },
+  {
+    "activityDetailsId": "8a15e025-cf19-4c19-bca9-9777c52111ef",
+    "activityId": "1692489600000",
+    "groupId": "testId",
+    "playerName": "marcus",
+    "paid": true,
+    "createdAt": 1697078526079
+  },
+  {
+    "activityDetailsId": "5371d46c-471f-4941-ab60-0bffbe9f4019",
+    "activityId": "1688256000000",
+    "groupId": "testId",
+    "playerName": "nictay",
+    "paid": true,
+    "createdAt": 1697078508881
+  },
+  {
+    "activityDetailsId": "5cee9b8b-a29f-4597-b3e7-ef50d6daf96d",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "jason",
+    "paid": true,
+    "createdAt": 1697078534366
+  },
+  {
+    "activityDetailsId": "70bbc491-4093-499c-9c40-deb8a36e246a",
+    "activityId": "1696118400000",
+    "groupId": "testId",
+    "playerName": "yinrou",
+    "paid": true,
+    "createdAt": 1697078540347
+  },
+  {
+    "activityDetailsId": "fa7bed9d-8158-478d-8124-2988176aff4c",
+    "activityId": "1696723200000",
+    "groupId": "testId",
+    "playerName": "jia",
+    "paid": true,
+    "createdAt": 1697078541071
+  },
+  {
+    "activityDetailsId": "78e6ab7b-7c4f-4df1-848e-ada1b19c5fec",
+    "activityId": "1694304000000",
+    "groupId": "testId",
+    "playerName": "tammy",
+    "paid": true,
+    "createdAt": 1697078531847
+  },
+  {
+    "activityDetailsId": "34ab4462-8de4-4c1a-9ebe-0899d8a279d6",
+    "activityId": "1693699200000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078528965
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1694908800000",
+    "groupId": "testId",
+    "playerName": "sophie",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1697932800000",
+    "groupId": "testId",
+    "playerName": "jia",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1697932800000",
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1697932800000",
+    "groupId": "testId",
+    "playerName": "danieltan",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1697932800000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1697932800000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1697932800000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "nick",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "hannah",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "rachel",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "bryan",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "joel",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "joanne",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "jia",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "gladness",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "danieltan",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "sophie",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1698451200000",
+    "groupId": "testId",
+    "playerName": "alvarez",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1699660800000",
+    "groupId": "testId",
+    "playerName": "nick",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1699660800000",
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1699660800000",
+    "groupId": "testId",
+    "playerName": "sophie",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1699660800000",
+    "groupId": "testId",
+    "playerName": "beverly",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1699660800000",
+    "groupId": "testId",
+    "playerName": "wenping",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1699660800000",
+    "groupId": "testId",
+    "playerName": "nictay",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1699660800000",
+    "groupId": "testId",
+    "playerName": "chenyen",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1699660800000",
+    "groupId": "testId",
+    "playerName": "antonio",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1699660800000",
+    "groupId": "testId",
+    "playerName": "bryan",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "jia",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "sophie",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "jason",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "lena",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "nick",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "rachel",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "liuyang",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "nictay",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "tammy",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "marcus",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "wenping",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "yenyii",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": "1700352000000",
+    "groupId": "testId",
+    "playerName": "antonio",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "nathan",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "kris",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "marcus",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "daniel",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "janice",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "roy",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "sapphire",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "bryan",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "sungsoo",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "xiaomeng",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "dantan",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "andy",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "franki",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "cheri",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "antonio",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "beverly",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1700951404000,
+    "groupId": "testId",
+    "playerName": "hongliang",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1701642604000,
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1701642604000,
+    "groupId": "testId",
+    "playerName": "jason",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1701642604000,
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1701642604000,
+    "groupId": "testId",
+    "playerName": "sophie",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1701642604000,
+    "groupId": "testId",
+    "playerName": "aaron",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1701642604000,
+    "groupId": "testId",
+    "playerName": "liuyang",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1701642604000,
+    "groupId": "testId",
+    "playerName": "rachel",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1701642604000,
+    "groupId": "testId",
+    "playerName": "wenping",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1701642604000,
+    "groupId": "testId",
+    "playerName": "nictay",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "xiaomeng",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "jason",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "sophie",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "marcus",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "tammy",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "mary",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "roy",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "cindy",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "wenping",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "simeon",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1702852204000,
+    "groupId": "testId",
+    "playerName": "susana",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "andrew",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "liuyang",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "hongliang",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "marcus",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "tammy",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "mary",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "gladness",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "xiaomeng",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "daniel",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "janice",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "simeon",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "mia",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1703975404000,
+    "groupId": "testId",
+    "playerName": "leah",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "sophie",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "jason",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "marcus",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "tammy",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "andrew",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "wenping",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "mary",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "liuyang",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "lloyd",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "charlotte",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "daniel",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "janice",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "nick",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1705271404000,
+    "groupId": "testId",
+    "playerName": "rachel",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1706394604000,
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1706394604000,
+    "groupId": "testId",
+    "playerName": "gladness",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1706394604000,
+    "groupId": "testId",
+    "playerName": "olivia",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1706394604000,
+    "groupId": "testId",
+    "playerName": "bryan",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1706394604000,
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1706394604000,
+    "groupId": "testId",
+    "playerName": "sophie",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707085804000,
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707085804000,
+    "groupId": "testId",
+    "playerName": "liuyang",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707085804000,
+    "groupId": "testId",
+    "playerName": "dantan",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707085804000,
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707085804000,
+    "groupId": "testId",
+    "playerName": "sophie",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707085804000,
+    "groupId": "testId",
+    "playerName": "joanna",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707085804000,
+    "groupId": "testId",
+    "playerName": "daisy",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707085804000,
+    "groupId": "testId",
+    "playerName": "zihan",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707604204000,
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707604204000,
+    "groupId": "testId",
+    "playerName": "alvarez",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707604204000,
+    "groupId": "testId",
+    "playerName": "olivia",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707604204000,
+    "groupId": "testId",
+    "playerName": "steven",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707604204000,
+    "groupId": "testId",
+    "playerName": "xiaomeng",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707604204000,
+    "groupId": "testId",
+    "playerName": "chenchen",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1707604204000,
+    "groupId": "testId",
+    "playerName": "andrew",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1708295404000,
+    "groupId": "testId",
+    "playerName": "daren",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1708295404000,
+    "groupId": "testId",
+    "playerName": "andrew",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1708295404000,
+    "groupId": "testId",
+    "playerName": "jia",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1708295404000,
+    "groupId": "testId",
+    "playerName": "joel",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1708295404000,
+    "groupId": "testId",
+    "playerName": "steven",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1708295404000,
+    "groupId": "testId",
+    "playerName": "liuyang",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1708295404000,
+    "groupId": "testId",
+    "playerName": "james",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1708295404000,
+    "groupId": "testId",
+    "playerName": "sophie",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1708295404000,
+    "groupId": "testId",
+    "playerName": "antonio",
+    "paid": true,
+    "createdAt": 1697078536356
+  },
+  {
+    "activityDetailsId": "33157914-dfbc-40c2-bff7-4c778513e7d4",
+    "activityId": 1708295404000,
+    "groupId": "testId",
+    "playerName": "mary",
+    "paid": true,
+    "createdAt": 1697078536356
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "activityId": "1698451200000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1698451200000",
+    "numPlayers": 15,
+    "venueCost": 48,
+    "otherCost": 0,
+    "createdAt": 1697078512505
+  },
+  {
+    "activityId": "1697932800000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1697932800000",
+    "numPlayers": 6,
+    "venueCost": 24,
+    "otherCost": 0,
+    "createdAt": 1697078512505
+  },
+  {
+    "activityId": "1689465600000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1689465600000",
+    "numPlayers": 10,
+    "venueCost": 24,
+    "otherCost": 2,
+    "createdAt": 1697078512505
+  },
+  {
+    "activityId": "1690070400000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1690070400000",
+    "numPlayers": 15,
+    "venueCost": 48,
+    "otherCost": 4,
+    "createdAt": 1697078514489
+  },
+  {
+    "activityId": "1691884800000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1691884800000",
+    "numPlayers": 8,
+    "venueCost": 24,
+    "otherCost": 0,
+    "createdAt": 1697078521372
+  },
+  {
+    "activityId": "1688256000000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1688256000000",
+    "numPlayers": 7,
+    "venueCost": 24,
+    "otherCost": 2,
+    "createdAt": 1697078508488
+  },
+  {
+    "activityId": "1691280000000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1691280000000",
+    "numPlayers": 10,
+    "venueCost": 36,
+    "otherCost": 0,
+    "createdAt": 1697078519380
+  },
+  {
+    "activityId": "1693699200000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1693699200000",
+    "numPlayers": 14,
+    "venueCost": 48,
+    "otherCost": 0,
+    "createdAt": 1697078528784
+  },
+  {
+    "activityId": "1688860800000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1688860800000",
+    "numPlayers": 13,
+    "venueCost": 48,
+    "otherCost": 2,
+    "createdAt": 1697078509970
+  },
+  {
+    "activityId": "1690675200000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1690675200000",
+    "numPlayers": 10,
+    "venueCost": 24,
+    "otherCost": 2,
+    "createdAt": 1697078517396
+  },
+  {
+    "activityId": "1696118400000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1696118400000",
+    "numPlayers": 18,
+    "venueCost": 72,
+    "otherCost": 0,
+    "createdAt": 1697078537082
+  },
+  {
+    "activityId": "1696723200000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1696723200000",
+    "numPlayers": 14,
+    "venueCost": 48,
+    "otherCost": 0,
+    "createdAt": 1697078540530
+  },
+  {
+    "activityId": "1694908800000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1694908800000",
+    "numPlayers": 16,
+    "venueCost": 48,
+    "otherCost": 4,
+    "createdAt": 1697078534007
+  },
+  {
+    "activityId": "1694304000000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1694304000000",
+    "numPlayers": 13,
+    "venueCost": 48,
+    "otherCost": 0,
+    "createdAt": 1697078531487
+  },
+  {
+    "activityId": "1693094400000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1693094400000",
+    "numPlayers": 13,
+    "venueCost": 48,
+    "otherCost": 0,
+    "createdAt": 1697078526260
+  },
+  {
+    "activityId": "1692489600000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1692489600000",
+    "numPlayers": 17,
+    "venueCost": 60,
+    "otherCost": 0,
+    "createdAt": 1697078523010
+  },
+  {
+    "activityId": "1699660800000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1699660800000",
+    "numPlayers": 9,
+    "venueCost": 12,
+    "otherCost": 0,
+    "createdAt": 1697078523010
+  },
+  {
+    "activityId": "1700352000000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1700352000000",
+    "numPlayers": 15,
+    "venueCost": 48,
+    "otherCost": 0,
+    "createdAt": 1697078523010
+  },
+  {
+    "activityId": "1700951404000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1700951404000",
+    "numPlayers": 20,
+    "venueCost": 29,
+    "otherCost": 0,
+    "createdAt": 1697078523010
+  },
+  {
+    "activityId": "1701642604000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1701642604000",
+    "numPlayers": 9,
+    "venueCost": 24,
+    "otherCost": 2,
+    "createdAt": 1697078523010
+  },
+  {
+    "activityId": "1702852204000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1702852204000",
+    "numPlayers": 15,
+    "venueCost": 48,
+    "otherCost": 0,
+    "createdAt": 1697078523010
+  },
+  {
+    "activityId": "1703975404000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1703975404000",
+    "numPlayers": 14,
+    "venueCost": 36,
+    "otherCost": 0,
+    "createdAt": 1697078523010
+  },
+  {
+    "activityId": "1705271404000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1705271404000",
+    "numPlayers": 16,
+    "venueCost": 38,
+    "otherCost": 0,
+    "createdAt": 1697078523010
+  },
+  {
+    "activityId": "1706394604000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1706394604000",
+    "numPlayers": 6,
+    "venueCost": 12,
+    "otherCost": 0,
+    "createdAt": 1697078523010
+  },
+  {
+    "activityId": "1707085804000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1707085804000",
+    "numPlayers": 8,
+    "venueCost": 12,
+    "otherCost": 0,
+    "createdAt": 1697078523010
+  },
+  {
+    "activityId": "1707604204000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1707604204000",
+    "numPlayers": 7,
+    "venueCost": 12,
+    "otherCost": 0,
+    "createdAt": 1697078523010
+  },
+  {
+    "activityId": "1708295404000",
+    "activityName": "Badminton",
+    "groupId": "testId",
+    "date": "1708295404000",
+    "numPlayers": 10,
+    "venueCost": 30,
+    "otherCost": 0,
+    "createdAt": 1697078523010
+  }
+]
